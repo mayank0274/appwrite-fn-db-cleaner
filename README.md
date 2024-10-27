@@ -1,3 +1,6 @@
+### Credit
+This function is taken from here https://github.com/dishwasher-detergent/templates/tree/feat-implement-database-cleaner-node/node/database-cleaner
+
 # 🧹 Database Cleaner Function
 
 Deletes documents in a database after a specified retention period.
